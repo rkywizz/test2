@@ -44,6 +44,7 @@ public class Demo {
 			}
 		}	
 	//	sc.close();
+		System.out.println("Before The End") ;
 		System.out.println("The End") ;
 
 	}
