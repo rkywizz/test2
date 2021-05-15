@@ -1,5 +1,0 @@
-Hello Everybodya
-Welcome to git
-We are learning git commands
-
-hiiiiiii
